@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="todo">TODO</string>
+</resources>
